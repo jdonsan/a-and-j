@@ -1,28 +1,42 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <my-cover />
+    <my-countdown />
   </div>
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
+import MyCover from './components/MyCover/MyCover'
+import MyCountdown from './components/MyCountdown/MyCountdown'
 
 export default {
-  name: "App",
+  name: 'App',
+
   components: {
-    HelloWorld,
-  },
-};
+    MyCover,
+    MyCountdown
+  }
+}
 </script>
 
 <style lang="scss">
+body,
+html {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+  background: url('@/assets/img/bg.webp');
+  background-attachment: cover;
+  background-position: 100%;
+
+  div,
+  section,
+  article {
+    box-sizing: border-box;
+  }
+}
+
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
 }
 </style>
