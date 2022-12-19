@@ -1,16 +1,20 @@
 <template>
-  <section class="my-ceremony">
-    <div class="my-ceremony-container">
-      <h2>La Ceremonia</h2>
-      <h3>Ayuntamiento de Alcalá de Henares</h3>
+  <section class="my-breakfast">
+    <div class="my-breakfast-container">
+      <div class="next-day">
+        <h2>Y al día siguiente...</h2>
+      </div>
+
+      <h2>El desayuno</h2>
+      <h3>Parador de Alcalá de Henares</h3>
 
       <my-tags-container>
         <my-tag>
-          <font-awesome-icon icon="fa-solid fa-clock" /> 18:14 - 19:00
+          <font-awesome-icon icon="fa-solid fa-clock" /> 08:00 - 10:00
         </my-tag>
       </my-tags-container>
 
-      <img src="@/assets/img/ayuntamiento.png" alt="" />
+      <img src="@/assets/img/breakfast.jpg" alt="" />
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci,
         beatae eaque accusamus cupiditate deleniti provident, optio alias
@@ -32,7 +36,7 @@ import MyTag from '@/components/MyTag/MyTag'
 import MyTagsContainer from '@/components/MyTagsContainer/MyTagsContainer'
 
 export default {
-  name: 'MyCeremony',
+  name: 'MyBreakfast',
 
   components: {
     MyTag,
@@ -42,7 +46,7 @@ export default {
 </script>
 
 <style lang="scss">
-.my-ceremony {
+.my-breakfast {
   padding-top: 6rem;
   padding-bottom: 4rem;
   position: relative;
@@ -73,6 +77,45 @@ export default {
   &-container {
     width: 95%;
     margin: 0 auto;
+  }
+
+  .next-day {
+    position: relative;
+    margin: 0 auto;
+    padding: 1rem;
+    width: 90%;
+    background: $color-2;
+    margin-bottom: 4rem;
+    h2 {
+      color: $color-5;
+      font-size: 45px;
+    }
+
+    &::before {
+      background-image: url('@/assets/img/cinta-1.svg');
+      position: absolute;
+      content: '';
+      background-size: contain !important;
+      background-repeat: no-repeat;
+      background-position: right;
+      height: 100%;
+      width: 16px;
+      left: -15px;
+      top: 0;
+    }
+
+    &::after {
+      background-image: url('@/assets/img/cinta-2.svg');
+      position: absolute;
+      content: '';
+      background-size: contain !important;
+      background-repeat: no-repeat;
+      background-position: left;
+      height: 100%;
+      width: 16px;
+      right: -15px;
+      top: 0;
+    }
   }
 }
 </style>

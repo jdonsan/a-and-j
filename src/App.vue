@@ -4,8 +4,11 @@
     <my-countdown />
     <my-place />
     <my-hotel />
+    <my-preparation />
     <my-ceremony />
     <my-celebration />
+    <my-party />
+    <my-breakfast />
     <my-music />
   </div>
 </template>
@@ -15,8 +18,11 @@ import MyCover from './components/MyCover/MyCover'
 import MyCountdown from './components/MyCountdown/MyCountdown'
 import MyPlace from './components/MyPlace/MyPlace'
 import MyHotel from './components/MyHotel/MyHotel'
+import MyPreparation from './components/MyPreparation/MyPreparation'
 import MyCeremony from './components/MyCeremony/MyCeremony'
 import MyCelebration from './components/MyCelebration/MyCelebration'
+import MyParty from './components/MyParty/MyParty'
+import MyBreakfast from './components/MyBreakfast/MyBreakfast'
 import MyMusic from './components/MyMusic/MyMusic'
 
 export default {
@@ -27,8 +33,11 @@ export default {
     MyCountdown,
     MyPlace,
     MyHotel,
+    MyPreparation,
     MyCeremony,
     MyCelebration,
+    MyParty,
+    MyBreakfast,
     MyMusic
   }
 }

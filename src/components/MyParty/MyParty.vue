@@ -1,16 +1,15 @@
 <template>
-  <section class="my-celebration">
-    <div class="my-celebration-container">
-      <h2>La Celebración</h2>
-      <h3>Casino de Alcalá de Henares</h3>
+  <section class="my-party">
+    <div class="my-party-container">
+      <h2>La Fiesta</h2>
+      <h3>Hanoi House</h3>
 
       <my-tags-container>
-        <my-tag>
-          <font-awesome-icon icon="fa-solid fa-clock" /> 21:00 - 23:00
-        </my-tag>
+        <my-tag> <font-awesome-icon icon="fa-solid fa-clock" /> 00:00 </my-tag>
       </my-tags-container>
 
-      <img src="@/assets/img/casino.jpeg" alt="" />
+      <img src="@/assets/img/hanoi.webp" alt="" />
+
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci,
         beatae eaque accusamus cupiditate deleniti provident, optio alias
@@ -32,7 +31,7 @@ import MyTag from '@/components/MyTag/MyTag'
 import MyTagsContainer from '@/components/MyTagsContainer/MyTagsContainer'
 
 export default {
-  name: 'MyCelebration',
+  name: 'MyParty',
 
   components: {
     MyTag,
@@ -42,24 +41,10 @@ export default {
 </script>
 
 <style lang="scss">
-.my-celebration {
-  padding-top: 4rem;
+.my-party {
+  padding-top: 2rem;
   background: $color-5;
-  padding-bottom: 8rem;
-  position: relative;
-
-  &::after {
-    background-image: url('@/assets/img/curva-1.svg');
-    position: absolute;
-    content: '';
-    background-size: contain !important;
-    background-repeat: no-repeat;
-    background-position: bottom center;
-    height: 100%;
-    width: 100%;
-    bottom: 1rem;
-    z-index: 99;
-  }
+  padding-bottom: 1rem;
 
   &-container {
     width: 95%;

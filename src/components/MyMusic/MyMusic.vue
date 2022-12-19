@@ -1,8 +1,8 @@
 <template>
-  <div ref="myAudio" class="my-music" @click="togglePlay(!isPlay)">
+  <div class="my-music" @click="togglePlay(!isPlay)">
     <div class="my-music-container">
       <font-awesome-icon icon="fa-solid fa-music" />
-      <audio src="@/assets/audio/music.mp3" autoplay loop></audio>
+      <audio ref="myAudio" src="@/assets/audio/music.mp3" autoplay loop></audio>
     </div>
   </div>
 </template>
@@ -18,9 +18,9 @@ export default {
   },
 
   methods: {
-    togglePlay() {
-      console.log(this.$refs)
-      //  isPlaying ? this.$refs.myAudio.pause() : this.$refs.myAudio.play()
+    togglePlay(isPlaying) {
+      this.isPlay = isPlaying
+      isPlaying ? this.$refs.myAudio.pause() : this.$refs.myAudio.play()
     }
   }
 }
@@ -42,7 +42,8 @@ export default {
     border-radius: 100%;
     background: rgba($color-1, 0.3);
     @include flex-center();
-    color: $color-5;
+    color: $color-1;
+    font-size: 16px;
   }
 }
 </style>
