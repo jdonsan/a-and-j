@@ -55,6 +55,7 @@ export default {
   &-content {
     width: 95%;
     margin: 0 auto;
+    max-width: 768px;
     margin-top: 7rem;
   }
 

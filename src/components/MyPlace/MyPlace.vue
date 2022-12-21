@@ -16,13 +16,33 @@
         incidunt laborum, voluptatibus rem? At aperiam natus perferendis,
         voluptatum error maxime delectus tempore.
       </p>
+
+      <my-container-center>
+        <my-link href="https://goo.gl/maps/aSKrSJ57gJDZuP9T9" target="_blank">
+          <font-awesome-icon icon="fa-solid fa-location-dot" /> Ver Ubicación
+        </my-link>
+        <my-link
+          href="https://es.wikipedia.org/wiki/Alcal%C3%A1_de_Henares"
+          target="_blank"
+        >
+          <font-awesome-icon icon="fa-solid fa-circle-info" /> Saber Más
+        </my-link>
+      </my-container-center>
     </div>
   </section>
 </template>
 
 <script>
+import MyContainerCenter from '@/components/MyContainerCenter/MyContainerCenter'
+import MyLink from '@/components/MyLink/MyLink'
+
 export default {
-  name: 'MyPlace'
+  name: 'MyPlace',
+
+  components: {
+    MyContainerCenter,
+    MyLink
+  }
 }
 </script>
 
@@ -48,7 +68,10 @@ export default {
 
   &-container {
     width: 95%;
+    max-width: 768px;
     margin: 0 auto;
+    z-index: 999;
+    position: relative;
   }
 }
 </style>

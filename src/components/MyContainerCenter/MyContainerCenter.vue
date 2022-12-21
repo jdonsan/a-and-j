@@ -1,17 +1,17 @@
 <template>
-  <div class="my-tags-container">
+  <div class="my-container-center">
     <slot />
   </div>
 </template>
 
 <script>
 export default {
-  name: 'MyTagContainer'
+  name: 'MyContainerCenter'
 }
 </script>
 
 <style lang="scss">
-.my-tags-container {
+.my-container-center {
   text-align: center;
 }
 </style>

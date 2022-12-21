@@ -4,11 +4,11 @@
       <h2>La Celebración</h2>
       <h3>Casino de Alcalá de Henares</h3>
 
-      <my-tags-container>
+      <my-container-center>
         <my-tag>
           <font-awesome-icon icon="fa-solid fa-clock" /> 21:00 - 23:00
         </my-tag>
-      </my-tags-container>
+      </my-container-center>
 
       <img src="@/assets/img/casino.jpeg" alt="" />
       <p>
@@ -23,20 +23,31 @@
         incidunt laborum, voluptatibus rem? At aperiam natus perferendis,
         voluptatum error maxime delectus tempore.
       </p>
+
+      <my-container-center>
+        <my-link href="https://goo.gl/maps/6zdEpQbh3uHfChrR6" target="_blank">
+          <font-awesome-icon icon="fa-solid fa-location-dot" /> Ver Ubicación
+        </my-link>
+        <my-link href="https://www.casinoalcala.es/" target="_blank">
+          <font-awesome-icon icon="fa-solid fa-circle-info" /> Saber Más
+        </my-link>
+      </my-container-center>
     </div>
   </section>
 </template>
 
 <script>
+import MyContainerCenter from '@/components/MyContainerCenter/MyContainerCenter'
 import MyTag from '@/components/MyTag/MyTag'
-import MyTagsContainer from '@/components/MyTagsContainer/MyTagsContainer'
+import MyLink from '@/components/MyLink/MyLink'
 
 export default {
   name: 'MyCelebration',
 
   components: {
+    MyContainerCenter,
     MyTag,
-    MyTagsContainer
+    MyLink
   }
 }
 </script>
@@ -45,7 +56,7 @@ export default {
 .my-celebration {
   padding-top: 4rem;
   background: $color-5;
-  padding-bottom: 8rem;
+  padding-bottom: 10rem;
   position: relative;
 
   &::after {
@@ -63,7 +74,10 @@ export default {
 
   &-container {
     width: 95%;
+    max-width: 768px;
     margin: 0 auto;
+    z-index: 999;
+    position: relative;
   }
 }
 </style>
