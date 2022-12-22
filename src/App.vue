@@ -9,6 +9,8 @@
     <my-celebration />
     <my-party />
     <my-breakfast />
+    <my-tour />
+    <my-lunch />
     <my-music />
   </div>
 </template>
@@ -23,6 +25,8 @@ import MyCeremony from './components/MyCeremony/MyCeremony'
 import MyCelebration from './components/MyCelebration/MyCelebration'
 import MyParty from './components/MyParty/MyParty'
 import MyBreakfast from './components/MyBreakfast/MyBreakfast'
+import MyTour from './components/MyTour/MyTour'
+import MyLunch from './components/MyLunch/MyLunch'
 import MyMusic from './components/MyMusic/MyMusic'
 
 export default {
@@ -38,6 +42,8 @@ export default {
     MyCelebration,
     MyParty,
     MyBreakfast,
+    MyTour,
+    MyLunch,
     MyMusic
   }
 }

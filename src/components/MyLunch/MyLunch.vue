@@ -1,20 +1,16 @@
 <template>
-  <section class="my-breakfast">
-    <div class="my-breakfast-container">
-      <div class="next-day">
-        <h2>Y al día siguiente...</h2>
-      </div>
-
-      <h2>El Desayuno</h2>
-      <h3>Parador de Alcalá de Henares</h3>
+  <section class="my-lunch">
+    <div class="my-lunch-container">
+      <h2>La Comida</h2>
+      <h3>El Figón de Antón</h3>
 
       <my-container-center>
         <my-tag>
-          <font-awesome-icon icon="fa-solid fa-clock" /> 08:00 - 10:00
+          <font-awesome-icon icon="fa-solid fa-clock" /> 14:00 - 16:00
         </my-tag>
       </my-container-center>
 
-      <img src="@/assets/img/breakfast.jpg" alt="" />
+      <img src="@/assets/img/lunch.jpg" alt="" />
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci,
         beatae eaque accusamus cupiditate deleniti provident, optio alias
@@ -29,13 +25,10 @@
       </p>
 
       <my-container-center>
-        <my-link href="https://goo.gl/maps/wkzh8BUGkKVoYqE37" target="_blank">
+        <my-link href="https://goo.gl/maps/oZM84GggTPBXDUvN6" target="_blank">
           <font-awesome-icon icon="fa-solid fa-location-dot" /> Ver Ubicación
         </my-link>
-        <my-link
-          href="https://paradores.es/es/parador-de-alcala-de-henares"
-          target="_blank"
-        >
+        <my-link href="https://elfigondeanton.es/" target="_blank">
           <font-awesome-icon icon="fa-solid fa-circle-info" /> Saber Más
         </my-link>
       </my-container-center>
@@ -49,7 +42,7 @@ import MyTag from '@/components/MyTag/MyTag'
 import MyLink from '@/components/MyLink/MyLink'
 
 export default {
-  name: 'MyBreakfast',
+  name: 'MyLunch',
 
   components: {
     MyContainerCenter,
@@ -60,10 +53,11 @@ export default {
 </script>
 
 <style lang="scss">
-.my-breakfast {
-  padding-top: 6rem;
+.my-lunch {
+  padding-top: 5rem;
   padding-bottom: 4rem;
   position: relative;
+  background: $color-5;
 
   &::before {
     background-image: url('@/assets/img/linea-3.svg');
@@ -94,46 +88,6 @@ export default {
     margin: 0 auto;
     z-index: 999;
     position: relative;
-  }
-
-  .next-day {
-    position: relative;
-    margin: 0 auto;
-    padding: 1rem;
-    width: 90%;
-    background: $color-2;
-    margin-bottom: 4rem;
-
-    h2 {
-      color: $color-5;
-      font-size: 45px;
-    }
-
-    &::before {
-      background-image: url('@/assets/img/cinta-1.svg');
-      position: absolute;
-      content: '';
-      background-size: contain !important;
-      background-repeat: no-repeat;
-      background-position: right;
-      height: 100%;
-      width: 16px;
-      left: -15px;
-      top: 0;
-    }
-
-    &::after {
-      background-image: url('@/assets/img/cinta-2.svg');
-      position: absolute;
-      content: '';
-      background-size: contain !important;
-      background-repeat: no-repeat;
-      background-position: left;
-      height: 100%;
-      width: 16px;
-      right: -15px;
-      top: 0;
-    }
   }
 }
 </style>
