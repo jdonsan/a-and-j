@@ -79,11 +79,11 @@ export default {
     background: url('@/assets/img/contador.png') center center no-repeat;
     background-size: contain;
     position: absolute;
-    left: calc(50% - 190px);
+    left: calc(50% - 160px);
     z-index: 99;
     width: 100%;
-    max-width: 380px;
-    max-height: 380px;
+    max-width: 320px;
+    max-height: 320px;
     min-width: 320px;
     min-height: 320px;
     margin: 0 auto;
