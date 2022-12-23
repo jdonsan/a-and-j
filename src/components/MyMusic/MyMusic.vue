@@ -19,8 +19,8 @@ export default {
 
   methods: {
     togglePlay(isPlaying) {
+      this.isPlay ? this.$refs.myAudio.pause() : this.$refs.myAudio.play()
       this.isPlay = isPlaying
-      isPlaying ? this.$refs.myAudio.pause() : this.$refs.myAudio.play()
     }
   }
 }
