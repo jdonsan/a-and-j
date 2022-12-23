@@ -48,7 +48,7 @@ export default {
 
   methods: {
     run() {
-      const countDownDate = new Date('May 6, 2023 00:00:01').getTime()
+      const countDownDate = new Date('May 6, 2023 01:00:00').getTime()
       const interval = setInterval(() => {
         const now = new Date().getTime()
         const distance = countDownDate - now
