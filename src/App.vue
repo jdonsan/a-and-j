@@ -4,7 +4,8 @@
       <div class="my-loading-page-container"></div>
       <div class="my-loading-page-background"></div>
       <div class="my-loading-page-center">
-        <my-loading />
+        <my-loading v-if="loading" />
+        <button v-else @click="start = true">Empezar</button>
       </div>
     </div>
     <div v-else>
@@ -60,14 +61,13 @@ export default {
 
   data() {
     return {
-      start: false
+      start: false,
+      loading: true
     }
   },
 
   mounted() {
-    setTimeout(() => {
-      this.start = true
-    }, 3000)
+    setTimeout(() => (this.loading = false), 5000)
   }
 }
 </script>
@@ -124,6 +124,20 @@ img {
   border-radius: 1rem;
 }
 
+button {
+  min-width: 200px;
+  border: 0;
+  display: inline-block;
+  background: $color-2;
+  color: $color-5;
+  font-family: $font-2;
+  font-weight: $weight-font-regular;
+  padding: 1rem;
+  border-radius: 5rem;
+  margin: 0.5rem;
+  text-decoration: none;
+}
+
 #app {
   .my-loading-page {
     background: $color-1;
@@ -155,6 +169,7 @@ img {
       position: absolute;
       z-index: 3;
       @include flex-center();
+      margin-top: -12rem;
     }
   }
 }

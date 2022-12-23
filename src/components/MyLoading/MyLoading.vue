@@ -4,8 +4,7 @@
       <div class="circle1"></div>
       <div class="circle2"></div>
     </div>
-    <span>A & j</span>
-    <span>06.05.2023</span>
+    <span>Cargando</span>
   </div>
 </template>
 
