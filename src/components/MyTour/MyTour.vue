@@ -6,22 +6,19 @@
 
       <my-container-center>
         <my-tag>
-          <font-awesome-icon icon="fa-solid fa-clock" /> 11:00 - 13:00
+          <font-awesome-icon icon="fa-solid fa-clock" /> 12:00 - 14:00
         </my-tag>
       </my-container-center>
 
       <img src="@/assets/img/tour.jpg" alt="" />
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci,
-        beatae eaque accusamus cupiditate deleniti provident, optio alias
-        incidunt laborum, voluptatibus rem? At aperiam natus perferendis,
-        voluptatum error maxime delectus tempore.
+        Ya que estamos en una ciudad Patrimonio de la Humanidad, aprovechémoslo
+        ¿no?
       </p>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci,
-        beatae eaque accusamus cupiditate deleniti provident, optio alias
-        incidunt laborum, voluptatibus rem? At aperiam natus perferendis,
-        voluptatum error maxime delectus tempore.
+        Unos guías nos harán un tour por la ciudad enseñándonos los lugares más
+        emblematicos y característicos. Nos explicarán anécdotas y toda la
+        historia que hay en sus calles.
       </p>
 
       <my-container-center>

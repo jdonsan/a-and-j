@@ -16,18 +16,20 @@
 
       <img src="@/assets/img/breakfast.jpg" alt="" />
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci,
-        beatae eaque accusamus cupiditate deleniti provident, optio alias
-        incidunt laborum, voluptatibus rem? At aperiam natus perferendis,
-        voluptatum error maxime delectus tempore.
+        Después de una noche de copas y bailoteos, siempre viene bien un buen
+        desayuno. Vuestra reserva en el Parador cuenta con un desayuno tipo
+        buffet.
       </p>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci,
-        beatae eaque accusamus cupiditate deleniti provident, optio alias
-        incidunt laborum, voluptatibus rem? At aperiam natus perferendis,
-        voluptatum error maxime delectus tempore.
+        Este es un momento para vosotros y vosotras, desayunad con quien os
+        apetezca: vuestra pareja, vuestros amigos o vuestra familia. Estad a
+        vuestra bola. Desayunad a la hora que queráis y lo que queráis.
       </p>
-
+      <p>
+        Dejaremos la habitación sobre las 11:00 para poder sacar el coche y
+        realizar con tiempo suficiente la siguiente actividad. Así que
+        organizaros como queráis.
+      </p>
       <my-container-center>
         <my-link href="https://goo.gl/maps/wkzh8BUGkKVoYqE37" target="_blank">
           <font-awesome-icon icon="fa-solid fa-location-dot" /> Ver Ubicación

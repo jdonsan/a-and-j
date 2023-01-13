@@ -2,19 +2,26 @@
   <section class="my-place">
     <div class="my-place-container">
       <h2>El Lugar</h2>
-      <h3>Alcala de Henares</h3>
+      <h3>Alcalá de Henares</h3>
       <img src="@/assets/img/alcala.jpeg" alt="" />
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci,
-        beatae eaque accusamus cupiditate deleniti provident, optio alias
-        incidunt laborum, voluptatibus rem? At aperiam natus perferendis,
-        voluptatum error maxime delectus tempore.
+        Después de 10 años, 8.124 paseos, 1.280 comidas, 500 películas, 50
+        conciertos, infinitas celebraciones, después de 9 años viviendo juntos,
+        después de tantos y tantos buenos momentos compartidos y, sobre todo,
+        después de tanta expectativa creada, el gran día llega... ¡Nos casamos!
       </p>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci,
-        beatae eaque accusamus cupiditate deleniti provident, optio alias
-        incidunt laborum, voluptatibus rem? At aperiam natus perferendis,
-        voluptatum error maxime delectus tempore.
+        Os invitamos a un fin de semana diferente en Alcalá de Henares,
+        Patrimonio de la Humanidad, para celebrar nuestro amor y vuestro cariño.
+        Un fin de semana para comer y beber, reir y llorar, bailar y descansar,
+        para aprender, conocer y no parar... en definitiva, un fin de semana
+        para disfrutar.
+      </p>
+      <p>
+        Queremos que aprovechéis este fin de semana para conocer a nuestras
+        familias, para que redescubráis a vuestras parejas o amigos y para que
+        guardéis un dia especial en vuestros recuerdos. Estad atentos a todo lo
+        que tenemos planeado para vosotros y vosotras.
       </p>
 
       <my-container-center>

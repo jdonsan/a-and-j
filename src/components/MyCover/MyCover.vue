@@ -19,7 +19,7 @@
         <p class="my-cover-slogan">
           <img src="@/assets/img/comilla-apertura.svg" alt="" />
           <br />
-          Bienvenidos al fin de semana de nuestra boda
+          ¡Se buscan invitados para acudir a la boda del año!
           <br />
           <img src="@/assets//img/comilla-cierre.svg" alt="" />
         </p>

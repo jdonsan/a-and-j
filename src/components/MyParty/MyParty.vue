@@ -11,16 +11,19 @@
       <img src="@/assets/img/hanoi.webp" alt="" />
 
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci,
-        beatae eaque accusamus cupiditate deleniti provident, optio alias
-        incidunt laborum, voluptatibus rem? At aperiam natus perferendis,
-        voluptatum error maxime delectus tempore.
+        Después de comer y beber todo lo que queramos hasta reventar, iremos a
+        este famoso pub del centro de la ciudad donde podremos bailar y seguir
+        bebiendo.
       </p>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci,
-        beatae eaque accusamus cupiditate deleniti provident, optio alias
-        incidunt laborum, voluptatibus rem? At aperiam natus perferendis,
-        voluptatum error maxime delectus tempore.
+        Este local cuenta con una gran terraza y una zona de copas donde ponen
+        música de todo tipo. Dadle la murga al DJ para que os ponga vuestra
+        canción favorita.
+      </p>
+      <p>
+        El pub se encuentra detrás del Ayuntamiento, por lo que seguís teniendo
+        muy a mano vuestra habitación y pertenencias si las necestáis en
+        cualquier momento dado.
       </p>
 
       <my-container-center>

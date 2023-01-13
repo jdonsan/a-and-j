@@ -12,16 +12,10 @@
 
       <img src="@/assets/img/preparation.jpg" alt="" />
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci,
-        beatae eaque accusamus cupiditate deleniti provident, optio alias
-        incidunt laborum, voluptatibus rem? At aperiam natus perferendis,
-        voluptatum error maxime delectus tempore.
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci,
-        beatae eaque accusamus cupiditate deleniti provident, optio alias
-        incidunt laborum, voluptatibus rem? At aperiam natus perferendis,
-        voluptatum error maxime delectus tempore.
+        Es el momento de ponerse guapos y guapas. Aprovecha este momento para
+        ponerte música y arreglarte bailando y recordad como fue el día que nos
+        conociste, para echarte una siesta rápida o hacer lo que te apetezca con
+        tu pareja o amigos.
       </p>
 
       <my-container-center>

@@ -12,18 +12,15 @@
 
       <img src="@/assets/img/ayuntamiento.png" alt="" />
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci,
-        beatae eaque accusamus cupiditate deleniti provident, optio alias
-        incidunt laborum, voluptatibus rem? At aperiam natus perferendis,
-        voluptatum error maxime delectus tempore.
+        La Ceremonia se hará en el Ayuntamiento de Alcalá, a escasos metros del
+        Parador donde nos alojamos. Podéis ir andando sin problemas mientras
+        disfrutáis de la arquitectura de la zona Universitaria de la ciudad.
       </p>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci,
-        beatae eaque accusamus cupiditate deleniti provident, optio alias
-        incidunt laborum, voluptatibus rem? At aperiam natus perferendis,
-        voluptatum error maxime delectus tempore.
+        La Ceremonia durará 30 minutos y será un acto donde formalizaremos
+        nuestro matrimonio. Si queréis saber más de cómo será, pinchad en el
+        enlace de 'Saber Más'
       </p>
-
       <my-container-center>
         <my-link
           href="https://maps.app.goo.gl/CCncFsLic8H2pCKj8"

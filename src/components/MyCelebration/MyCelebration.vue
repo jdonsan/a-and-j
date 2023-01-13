@@ -12,16 +12,18 @@
 
       <img src="@/assets/img/casino.jpeg" alt="" />
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci,
-        beatae eaque accusamus cupiditate deleniti provident, optio alias
-        incidunt laborum, voluptatibus rem? At aperiam natus perferendis,
-        voluptatum error maxime delectus tempore.
+        Disfrutaremos de una rica y variada cena en este bonito restaurante de
+        la ciudad.
       </p>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci,
-        beatae eaque accusamus cupiditate deleniti provident, optio alias
-        incidunt laborum, voluptatibus rem? At aperiam natus perferendis,
-        voluptatum error maxime delectus tempore.
+        El restaurante se encuentra al lado del Ayuntamiento y del Parador por
+        lo que podréis estar a menos de un minuto de un sitio al otro sin tener
+        que andar mucho.
+      </p>
+      <p>
+        Aunque ya os lo hemos comentado, si alguno o alguna sois intolerantes a
+        algún alimento, hacérnoslo llegar para que lo tengamos en cuenta ese
+        día.
       </p>
 
       <my-container-center>

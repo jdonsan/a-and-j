@@ -2,26 +2,26 @@
   <section class="my-lunch">
     <div class="my-lunch-container">
       <h2>La Comida</h2>
-      <h3>El Figón de Antón</h3>
+      <h3>El Figón de Antxón</h3>
 
       <my-container-center>
         <my-tag>
-          <font-awesome-icon icon="fa-solid fa-clock" /> 14:00 - 16:00
+          <font-awesome-icon icon="fa-solid fa-clock" /> 15:00 - 17:00
         </my-tag>
       </my-container-center>
 
       <img src="@/assets/img/lunch.jpg" alt="" />
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci,
-        beatae eaque accusamus cupiditate deleniti provident, optio alias
-        incidunt laborum, voluptatibus rem? At aperiam natus perferendis,
-        voluptatum error maxime delectus tempore.
+        Por último, y para rematar, terminaremos el fin de semana comiendo en
+        este Figón Asturiano, un restaurante muy conocido y valorado por la
+        zona.
       </p>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci,
-        beatae eaque accusamus cupiditate deleniti provident, optio alias
-        incidunt laborum, voluptatibus rem? At aperiam natus perferendis,
-        voluptatum error maxime delectus tempore.
+        Nunca vienen mal un poco de fabes y/o cachopo (o lo que queráis) después
+        de una actividad cultura, pero no hace falta (o sí) que os digamos que
+        si decidís que ya han sido demasiadas emociones para vosotros y vosotras
+        y preferis ir a vuestro rollo o si este segundo día os sobra, nos
+        aviséis para poder cancelar con tiempo las reservas oportunas :)
       </p>
 
       <my-container-center>

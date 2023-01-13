@@ -20,6 +20,7 @@
       <my-breakfast />
       <my-tour />
       <my-lunch />
+      <my-footer />
       <my-music />
     </div>
   </div>
@@ -37,6 +38,7 @@ import MyParty from './components/MyParty/MyParty'
 import MyBreakfast from './components/MyBreakfast/MyBreakfast'
 import MyTour from './components/MyTour/MyTour'
 import MyLunch from './components/MyLunch/MyLunch'
+import MyFooter from './components/MyFooter/MyFooter'
 import MyMusic from './components/MyMusic/MyMusic'
 import MyLoading from './components/MyLoading/MyLoading'
 
@@ -55,6 +57,7 @@ export default {
     MyBreakfast,
     MyTour,
     MyLunch,
+    MyFooter,
     MyMusic,
     MyLoading
   },
@@ -67,7 +70,7 @@ export default {
   },
 
   mounted() {
-    setTimeout(() => (this.loading = false), 5000)
+    setTimeout(() => (this.loading = false), 4000)
   }
 }
 </script>
@@ -129,7 +132,7 @@ button {
   border: 0;
   display: inline-block;
   background: $color-2;
-  color: $color-5;
+  color: $color-5 !important;
   font-family: $font-2;
   font-weight: $weight-font-regular;
   padding: 1rem;
