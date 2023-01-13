@@ -114,6 +114,8 @@ export default {
     font-size: 22px;
     line-height: 1.5;
     margin-top: 25px;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
 
     img {
       width: 30px;
