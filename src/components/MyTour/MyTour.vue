@@ -12,13 +12,13 @@
 
       <img src="@/assets/img/tour.jpg" alt="" />
       <p>
-        Ya que estamos en una ciudad Patrimonio de la Humanidad, aprovechémoslo
-        ¿no?
+        Ya que estaremos en una ciudad Patrimonio de la Humanidad,
+        aprovechémoslo ¿no?
       </p>
       <p>
-        Unos guías nos harán un tour por la ciudad enseñándonos los lugares más
-        emblematicos y característicos. Nos explicarán anécdotas y toda la
-        historia que hay en sus calles.
+        Tendremos una guía que nos hará un tour por la ciudad enseñándonos los
+        lugares más emblemáticos y característicos. Nos explicarán anécdotas y
+        toda la historia que hay en sus calles.
       </p>
 
       <my-container-center>

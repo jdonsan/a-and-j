@@ -17,7 +17,7 @@
       <img src="@/assets/img/breakfast.jpg" alt="" />
       <p>
         Después de una noche de copas y bailoteos, siempre viene bien un buen
-        desayuno. Vuestra reserva en el Parador cuenta con un desayuno tipo
+        desayuno. Vuestra reserva en el Parador contará con un desayuno de tipo
         buffet.
       </p>
       <p>

@@ -17,13 +17,13 @@
       </p>
       <p>
         Este local cuenta con una gran terraza y una zona de copas donde ponen
-        música de todo tipo. Dadle la murga al DJ para que os ponga vuestra
-        canción favorita.
+        música de todo tipo. Podréis darle la murga al DJ para que os ponga
+        vuestras canciones favoritas.
       </p>
       <p>
-        El pub se encuentra detrás del Ayuntamiento, por lo que seguís teniendo
-        muy a mano vuestra habitación y pertenencias si las necestáis en
-        cualquier momento dado.
+        El pub se encuentra detrás del Ayuntamiento, por lo que seguiréis
+        teniendo muy a mano vuestra habitación y pertenencias si las necestáis
+        en cualquier momento.
       </p>
 
       <my-container-center>

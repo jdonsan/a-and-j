@@ -1,7 +1,9 @@
 <template>
   <div class="my-music" @click="togglePlay(!isPlay)">
     <div class="my-music-container">
-      <font-awesome-icon icon="fa-solid fa-music" />
+      <font-awesome-icon
+        :icon="'fa-solid ' + (isPlay ? 'fa-volume-high' : 'fa-volume-xmark')"
+      />
       <audio ref="myAudio" src="@/assets/audio/music.mp3" autoplay loop></audio>
     </div>
   </div>

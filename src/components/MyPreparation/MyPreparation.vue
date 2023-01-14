@@ -11,11 +11,12 @@
       </my-container-center>
 
       <img src="@/assets/img/preparation.jpg" alt="" />
+      <p>¡Ahora toca ponerse más guapos y guapas!</p>
       <p>
-        Es el momento de ponerse guapos y guapas. Aprovecha este momento para
-        ponerte música y arreglarte bailando y recordad como fue el día que nos
-        conociste, para echarte una siesta rápida o hacer lo que te apetezca con
-        tu pareja o amigos.
+        Aprovecha este momento para hacer lo que te apetezca con tu pareja o
+        amigos: para echaros una siesta rápida, para poneros música, para
+        prepararos y vestiros bailando o para recordar cómo fue el día que nos
+        conocistéis &#128522;
       </p>
 
       <my-container-center>

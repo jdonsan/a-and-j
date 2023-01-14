@@ -13,23 +13,16 @@
       <img src="@/assets/img/parador.jpg" alt="" />
       <p>
         Os esperaremos en este bonito y céntrico Hotel de la ciudad. Tendréis a
-        vuestra disposición una habitación doble con todos los gastos pagados.
+        vuestra disposición una habitación doble.
       </p>
       <p>
-        Recordar que la ciudad tiene ciertos problemas de aparacamiento. Para
-        vuestra comodidad, el Hotel cuenta con parking privado que os
-        recomendamos que utilicéis.
+        Como sabemos que en el centro de la ciudad es complicado aparcar,
+        contaréis con una plaza de parking.
       </p>
       <p>
-        Tened en cuenta también que el casco antiguo se encuentra en obras y
-        puede que el maps os desvíe por otra entrada. Estaremos atentos los dos
-        para cualquier percance que tengáis.
-      </p>
-      <p>
-        Si por lo que fuese, queréis utilizar estas horas de antes para ir a
-        comer por la zona, ir a alguna peluquería o realizar cualquier otro
-        asunto, avisadnos para tenerlo en cuenta y poder organizarnos con
-        tiempo.
+        Si por lo que fuese, queréis utilizar este momento para ir a comer por
+        la zona, ir a alguna peluquería o realizar cualquier otro asunto,
+        avisadnos para tenerlo en cuenta y poder organizarnos con tiempo.
       </p>
 
       <my-container-center>

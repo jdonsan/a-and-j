@@ -13,13 +13,13 @@
       <img src="@/assets/img/ayuntamiento.png" alt="" />
       <p>
         La Ceremonia se hará en el Ayuntamiento de Alcalá, a escasos metros del
-        Parador donde nos alojamos. Podéis ir andando sin problemas mientras
+        Parador donde nos alojaremos. Podréis ir andando sin problemas mientras
         disfrutáis de la arquitectura de la zona Universitaria de la ciudad.
       </p>
       <p>
         La Ceremonia durará 30 minutos y será un acto donde formalizaremos
-        nuestro matrimonio. Si queréis saber más de cómo será, pinchad en el
-        enlace de 'Saber Más'
+        nuestro matrimonio. Si queréis saber más de cómo será el evento, pinchad
+        en el enlace de 'Saber Más'.
       </p>
       <my-container-center>
         <my-link

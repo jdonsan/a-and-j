@@ -6,22 +6,21 @@
 
       <my-container-center>
         <my-tag>
-          <font-awesome-icon icon="fa-solid fa-clock" /> 15:00 - 17:00
+          <font-awesome-icon icon="fa-solid fa-clock" /> 14:30 - 16:00
         </my-tag>
       </my-container-center>
 
       <img src="@/assets/img/lunch.jpg" alt="" />
       <p>
         Por último, y para rematar, terminaremos el fin de semana comiendo en
-        este Figón Asturiano, un restaurante muy conocido y valorado por la
-        zona.
+        este Figón Asturiano, un restaurante muy conocido y valorado de la zona.
       </p>
       <p>
         Nunca vienen mal un poco de fabes y/o cachopo (o lo que queráis) después
-        de una actividad cultura, pero no hace falta (o sí) que os digamos que
-        si decidís que ya han sido demasiadas emociones para vosotros y vosotras
-        y preferis ir a vuestro rollo o si este segundo día os sobra, nos
-        aviséis para poder cancelar con tiempo las reservas oportunas :)
+        de una actividad cultural, pero no hace falta (o sí) que os digamos que
+        si decidís que ya han sido demasiadas emociones y preferis ir a vuestro
+        rollo, o si este segundo día os sobra, nos aviséis para poder cancelar
+        con tiempo las reservas oportunas &#128522;
       </p>
 
       <my-container-center>

@@ -2,7 +2,7 @@
   <section class="my-celebration">
     <div class="my-celebration-container">
       <h2>La Celebración</h2>
-      <h3>Casino de Alcalá de Henares</h3>
+      <h3>Restaurante Casino</h3>
 
       <my-container-center>
         <my-tag>
@@ -16,13 +16,13 @@
         la ciudad.
       </p>
       <p>
-        El restaurante se encuentra al lado del Ayuntamiento y del Parador por
+        El restaurante se encuentra al lado del Ayuntamiento y del Parador, por
         lo que podréis estar a menos de un minuto de un sitio al otro sin tener
         que andar mucho.
       </p>
       <p>
-        Aunque ya os lo hemos comentado, si alguno o alguna sois intolerantes a
-        algún alimento, hacérnoslo llegar para que lo tengamos en cuenta ese
+        Aunque ya os lo hemos consultado, si alguno o alguna sois intolerantes a
+        algún alimento, hacérnoslo saber para que lo tengamos en cuenta para ese
         día.
       </p>
 
