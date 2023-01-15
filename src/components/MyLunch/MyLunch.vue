@@ -1,5 +1,5 @@
 <template>
-  <section class="my-lunch">
+  <section id="lunch" class="my-lunch">
     <div class="my-lunch-container">
       <h2>La Comida</h2>
       <h3>El Figón de Antxón</h3>

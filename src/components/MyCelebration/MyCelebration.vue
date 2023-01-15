@@ -1,5 +1,5 @@
 <template>
-  <section class="my-celebration">
+  <section id="celebration" class="my-celebration">
     <div class="my-celebration-container">
       <h2>La Celebración</h2>
       <h3>Restaurante Casino</h3>

@@ -1,5 +1,5 @@
 <template>
-  <section class="my-hotel">
+  <section id="hotel" class="my-hotel">
     <div class="my-hotel-container">
       <h2>La Recepción</h2>
       <h3>Parador de Alcalá de Henares</h3>

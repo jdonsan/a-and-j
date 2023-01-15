@@ -13,7 +13,9 @@ import {
   faLocationDot,
   faCircleInfo,
   faVolumeHigh,
-  faVolumeXmark
+  faVolumeXmark,
+  faBars,
+  faXmark
 } from '@fortawesome/free-solid-svg-icons'
 
 /* add icons to the library */
@@ -23,6 +25,8 @@ library.add(faLocationDot)
 library.add(faCircleInfo)
 library.add(faVolumeHigh)
 library.add(faVolumeXmark)
+library.add(faBars)
+library.add(faXmark)
 
 /* add font awesome icon component */
 Vue.component('font-awesome-icon', FontAwesomeIcon)

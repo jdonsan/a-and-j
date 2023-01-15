@@ -1,5 +1,5 @@
 <template>
-  <section class="my-preparation">
+  <section id="preparation" class="my-preparation">
     <div class="my-preparation-container">
       <h2>La Preparación</h2>
       <h3>Parador de Alcalá de Henares</h3>

@@ -1,5 +1,5 @@
 <template>
-  <section class="my-ceremony">
+  <section id="ceremony" class="my-ceremony">
     <div class="my-ceremony-container">
       <h2>La Ceremonia</h2>
       <h3>Ayuntamiento de Alcalá de Henares</h3>

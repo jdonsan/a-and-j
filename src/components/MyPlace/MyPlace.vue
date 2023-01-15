@@ -1,5 +1,5 @@
 <template>
-  <section class="my-place">
+  <section id="place" class="my-place">
     <div class="my-place-container">
       <h2>El Lugar</h2>
       <h3>Alcalá de Henares</h3>

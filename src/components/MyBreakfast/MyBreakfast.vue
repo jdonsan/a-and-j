@@ -1,5 +1,5 @@
 <template>
-  <section class="my-breakfast">
+  <section id="breakfast" class="my-breakfast">
     <div class="my-breakfast-container">
       <div class="next-day">
         <h2>Y al día siguiente...</h2>
@@ -10,7 +10,7 @@
 
       <my-container-center>
         <my-tag>
-          <font-awesome-icon icon="fa-solid fa-clock" /> 08:00 - 10:00
+          <font-awesome-icon icon="fa-solid fa-clock" /> 08:00 - 12:00
         </my-tag>
       </my-container-center>
 

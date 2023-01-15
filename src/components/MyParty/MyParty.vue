@@ -1,5 +1,5 @@
 <template>
-  <section class="my-party">
+  <section id="party" class="my-party">
     <div class="my-party-container">
       <h2>La Fiesta</h2>
       <h3>Hanoi House</h3>

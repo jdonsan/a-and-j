@@ -9,17 +9,20 @@
       </div>
     </div>
     <div v-else>
+      <my-menu />
       <my-cover />
       <my-countdown />
       <my-place />
       <my-hotel />
       <my-preparation />
       <my-ceremony />
+      <my-photos />
       <my-celebration />
       <my-party />
       <my-breakfast />
       <my-tour />
       <my-lunch />
+      <my-farewell />
       <my-footer />
       <my-music />
     </div>
@@ -27,17 +30,20 @@
 </template>
 
 <script>
+import MyMenu from './components/MyMenu/MyMenu'
 import MyCover from './components/MyCover/MyCover'
 import MyCountdown from './components/MyCountdown/MyCountdown'
 import MyPlace from './components/MyPlace/MyPlace'
 import MyHotel from './components/MyHotel/MyHotel'
 import MyPreparation from './components/MyPreparation/MyPreparation'
 import MyCeremony from './components/MyCeremony/MyCeremony'
+import MyPhotos from './components/MyPhotos/MyPhotos'
 import MyCelebration from './components/MyCelebration/MyCelebration'
 import MyParty from './components/MyParty/MyParty'
 import MyBreakfast from './components/MyBreakfast/MyBreakfast'
 import MyTour from './components/MyTour/MyTour'
 import MyLunch from './components/MyLunch/MyLunch'
+import MyFarewell from './components/MyFarewell/MyFarewell'
 import MyFooter from './components/MyFooter/MyFooter'
 import MyMusic from './components/MyMusic/MyMusic'
 import MyLoading from './components/MyLoading/MyLoading'
@@ -46,17 +52,20 @@ export default {
   name: 'App',
 
   components: {
+    MyMenu,
     MyCover,
     MyCountdown,
     MyPlace,
     MyHotel,
     MyPreparation,
     MyCeremony,
+    MyPhotos,
     MyCelebration,
     MyParty,
     MyBreakfast,
     MyTour,
     MyLunch,
+    MyFarewell,
     MyFooter,
     MyMusic,
     MyLoading

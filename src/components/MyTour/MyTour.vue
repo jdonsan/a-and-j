@@ -1,12 +1,12 @@
 <template>
-  <section class="my-tour">
+  <section id="tour" class="my-tour">
     <div class="my-tour-container">
       <h2>El Tour</h2>
       <h3></h3>
 
       <my-container-center>
         <my-tag>
-          <font-awesome-icon icon="fa-solid fa-clock" /> 12:00 - 14:00
+          <font-awesome-icon icon="fa-solid fa-clock" /> 12:30 - 14:00
         </my-tag>
       </my-container-center>
 
