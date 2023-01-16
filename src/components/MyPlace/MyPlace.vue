@@ -20,7 +20,7 @@
       <p>
         Queremos que aprovechéis este fin de semana para conocer más a nuestras
         familias, para que redescubráis a vuestras parejas o amigos y para que
-        guardéis un da especial en vuestros recuerdos. Estad atentos a todo lo
+        guardéis un día especial en vuestros recuerdos. Estad atentos a todo lo
         que tenemos planeado para vosotros y vosotras.
       </p>
 
