@@ -26,7 +26,7 @@
         vuestra bola. Desayunad a la hora que queráis y lo que queráis.
       </p>
       <p>
-        Dejaremos la habitación sobre las 11:00 para poder sacar el coche y
+        Dejaremos la habitación sobre las 12:00 para poder sacar el coche y
         realizar con tiempo suficiente la siguiente actividad. Así que
         organizaros como queráis.
       </p>
