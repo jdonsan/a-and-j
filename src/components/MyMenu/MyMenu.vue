@@ -74,6 +74,7 @@ export default {
 
   ul {
     display: none;
+    opacity: 0;
     position: fixed;
     z-index: 0;
     top: 0;
@@ -83,12 +84,13 @@ export default {
     background: rgba($color-1, 0.95);
     display: fixed;
     z-index: 1000;
-
     padding-top: 80px;
     padding-left: 24px;
 
     &.open {
       display: block;
+      opacity: 1;
+      animation: fade-in 0.5s ease;
     }
 
     li {
@@ -100,6 +102,15 @@ export default {
         text-decoration: none;
         font-size: 1.6rem;
       }
+    }
+  }
+
+  @keyframes fade-in {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
     }
   }
 }

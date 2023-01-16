@@ -150,6 +150,11 @@ button {
   text-decoration: none;
 }
 
+b {
+  color: $color-1;
+  font-weight: bold;
+}
+
 #app {
   .my-loading-page {
     background: $color-1;

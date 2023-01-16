@@ -12,18 +12,18 @@
 
       <img src="@/assets/img/casino.jpeg" alt="" />
       <p>
-        Disfrutaremos de una rica y variada cena en este bonito restaurante de
-        la ciudad.
+        Disfrutaremos de una <b>rica y variada</b> cena en este bonito
+        restaurante de la ciudad.
       </p>
       <p>
         El restaurante se encuentra al lado del Ayuntamiento y del Parador, por
-        lo que podréis estar a menos de un minuto de un sitio al otro sin tener
-        que andar mucho.
+        lo que podréis estar a <b>menos de un minuto</b> de un sitio al otro sin
+        tener que andar mucho.
       </p>
       <p>
-        Aunque ya os lo hemos consultado, si alguno o alguna sois intolerantes a
-        algún alimento, hacérnoslo saber para que lo tengamos en cuenta para ese
-        día.
+        Aunque ya os lo hemos consultado, si alguno o alguna sois
+        <b>intolerantes a algún alimento</b>, hacédnoslo saber para que lo
+        tengamos en cuenta para ese día.
       </p>
 
       <my-container-center>

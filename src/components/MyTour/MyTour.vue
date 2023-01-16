@@ -12,20 +12,23 @@
 
       <img src="@/assets/img/tour.jpg" alt="" />
       <p>
-        Ya que estaremos en una ciudad Patrimonio de la Humanidad,
+        Ya que estaremos en una ciudad <b>Patrimonio de la Humanidad</b>,
         aprovechémoslo ¿no?
       </p>
       <p>
-        Tendremos una guía que nos hará un tour por la ciudad enseñándonos los
-        lugares más emblemáticos y característicos. Nos explicarán anécdotas y
-        toda la historia que hay en sus calles.
+        <b>Tendremos una guía</b> que nos hará un tour por la ciudad
+        enseñándonos los lugares más emblemáticos y característicos. Nos
+        explicarán anécdotas y toda la historia que hay en sus calles.
       </p>
 
       <my-container-center>
-        <my-link href="" target="_blank">
+        <my-link href="https://goo.gl/maps/ZCPdFS1NNy55No3VA" target="_blank">
           <font-awesome-icon icon="fa-solid fa-location-dot" /> Ver Ubicación
         </my-link>
-        <my-link href="" target="_blank">
+        <my-link
+          href="https://alcalaturismoymas.com/free-tour-alcala-de-henares/"
+          target="_blank"
+        >
           <font-awesome-icon icon="fa-solid fa-circle-info" /> Saber Más
         </my-link>
       </my-container-center>

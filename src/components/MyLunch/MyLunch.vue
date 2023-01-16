@@ -13,14 +13,15 @@
       <img src="@/assets/img/lunch.jpg" alt="" />
       <p>
         Por último, y para rematar, terminaremos el fin de semana comiendo en
-        este Figón Asturiano, un restaurante muy conocido y valorado de la zona.
+        este <b>Figón Asturiano</b>, un restaurante muy conocido y valorado de
+        la zona.
       </p>
       <p>
-        Nunca vienen mal un poco de fabes y/o cachopo (o lo que queráis) después
-        de una actividad cultural, pero no hace falta (o sí) que os digamos que
-        si decidís que ya han sido demasiadas emociones y preferis ir a vuestro
-        rollo, o si este segundo día os sobra, nos aviséis para poder cancelar
-        con tiempo las reservas oportunas &#128522;
+        Nunca vienen mal un poco de <b>fabes y/o cachopo</b> (o lo que queráis)
+        después de una actividad cultural, pero no hace falta (o sí) que os
+        digamos que si decidís que ya han sido demasiadas emociones y preferis
+        ir a vuestro rollo, o si este segundo día os sobra, nos aviséis para
+        poder cancelar con tiempo las reservas oportunas &#128522;
       </p>
 
       <my-container-center>

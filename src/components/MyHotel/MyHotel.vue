@@ -12,17 +12,9 @@
 
       <img src="@/assets/img/parador.jpg" alt="" />
       <p>
-        Os esperaremos en este bonito y céntrico Hotel de la ciudad. Tendréis a
-        vuestra disposición una habitación doble.
-      </p>
-      <p>
-        Como sabemos que en el centro de la ciudad es complicado aparcar,
-        contaréis con una plaza de parking.
-      </p>
-      <p>
-        Si por lo que fuese, queréis utilizar este momento para ir a comer por
-        la zona, ir a alguna peluquería o realizar cualquier otro asunto,
-        avisadnos para tenerlo en cuenta y poder organizarnos con tiempo.
+        Os recibiremos en este bonito y céntrico Hotel de la ciudad &#128522;.
+        Tendréis a vuestra disposición una <b>habitación doble</b> con
+        <b>plaza de aparcamiento</b>.
       </p>
 
       <my-container-center>
@@ -34,6 +26,20 @@
           target="_blank"
         >
           <font-awesome-icon icon="fa-solid fa-circle-info" /> Saber Más
+        </my-link>
+      </my-container-center>
+      <br />
+      <br />
+      <p>
+        Si lo desáis, podréis aprovechar este momento para conocer los
+        alrededores y comer algo antes de los preparativos: Un buen lugar de
+        tapas para picotear algo y cercano al Parador es <b>'La Zarza'</b>.
+      </p>
+
+      <my-container-center>
+        <my-link href="https://goo.gl/maps/8ecGSZA8pzyT1SKf8" target="_blank">
+          <font-awesome-icon icon="fa-solid fa-location-dot" /> Ver Ubicación
+          'La Zarza'
         </my-link>
       </my-container-center>
     </div>

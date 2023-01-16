@@ -12,14 +12,13 @@
       <img src="@/assets/img/universidad.jpg" alt="Universidad Cisneriana" />
 
       <p>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex fuga amet a
-        nihil earum quos quas ab quam voluptatum, sequi nisi libero molestiae
-        dolores labore ut assumenda eius deleniti rem!
+        Una vez que hayamos dado el 'Sí, Quiero!', es momento de
+        <b>hacernos fotos</b>.
       </p>
       <p>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex fuga amet a
-        nihil earum quos quas ab quam voluptatum, sequi nisi libero molestiae
-        dolores labore ut assumenda eius deleniti rem!
+        Nos acercaremos un momento a la <b>Plaza de San Diego</b> donde se
+        encuentra la bonita fachada de la Universidad de Alcalá para hacernos
+        algunas fotos tanto en pareja como con vosotros y vosotras.
       </p>
 
       <my-container-center>
@@ -36,9 +35,9 @@
       <img src="@/assets/img/beer.jpg" alt="Anexo Café-Bistró" />
 
       <p>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex fuga amet a
-        nihil earum quos quas ab quam voluptatum, sequi nisi libero molestiae
-        dolores labore ut assumenda eius deleniti rem!
+        Para calmar un poco las emociones, nos tomaremos unas
+        <b>cervezas</b> cerca de la plaza para hacer tiempo antes de la cena e
+        ir haciendo hambre.
       </p>
 
       <my-container-center>

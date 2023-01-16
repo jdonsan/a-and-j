@@ -12,16 +12,16 @@
 
       <p>
         Después de comer y beber todo lo que queramos hasta reventar, iremos a
-        este famoso pub del centro de la ciudad donde podremos bailar y seguir
-        bebiendo.
+        este <b>famoso pub</b> del centro de la ciudad donde podremos bailar y
+        seguir bebiendo.
       </p>
       <p>
-        Este local cuenta con una gran terraza y una zona de copas donde ponen
-        música de todo tipo. Podréis darle la murga al DJ para que os ponga
-        vuestras canciones favoritas.
+        Este local cuenta con una <b>gran terraza</b> y una zona de copas donde
+        ponen música de todo tipo. Podréis darle la murga al DJ para que os
+        ponga vuestras canciones favoritas.
       </p>
       <p>
-        El pub se encuentra detrás del Ayuntamiento, por lo que seguiréis
+        El pub se encuentra <b>detrás del Ayuntamiento</b>, por lo que seguiréis
         teniendo muy a mano vuestra habitación y pertenencias si las necestáis
         en cualquier momento.
       </p>

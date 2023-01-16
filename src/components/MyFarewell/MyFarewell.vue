@@ -8,17 +8,21 @@
       </my-container-center>
 
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam quia
-        magni animi beatae accusantium? Asperiores, qui quisquam facere
-        consectetur deleniti sed ipsa iure, quam voluptatibus inventore corporis
-        doloribus rem. Hic!
+        Este será el momento de la despedida y como diría Gandalf en 'El Señor
+        de los Anillos':
       </p>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam nemo
-        tempora, hic, voluptas distinctio eius atque fuga corrupti a adipisci
-        itaque, consectetur recusandae reiciendis accusantium praesentium
-        eveniet. Iusto, corporis dignissimos?
+        <b
+          >'Aquí, al fin, a la orilla del mar, llega el adiós a nuestra
+          Compañía. No diré “no lloréis”, pues no todas las lágrimas son
+          amargas'.</b
+        >
       </p>
+      <p>
+        Esperamos que disfruteis estos dos días tanto como hemos disfrutado
+        nosotros preparándo todo.
+      </p>
+      <p>A más ver, mis valientes Hobbits! <b>Os esperamos!</b></p>
     </div>
   </section>
 </template>

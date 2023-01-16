@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: 'MyButton'
+  name: 'MyLink'
 }
 </script>
 
@@ -21,5 +21,10 @@ export default {
   border-radius: 5rem;
   margin: 0.5rem;
   text-decoration: none;
+
+  &:hover {
+    transition: all 1s ease;
+    background: $color-1;
+  }
 }
 </style>

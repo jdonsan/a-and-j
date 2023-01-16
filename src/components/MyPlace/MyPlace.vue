@@ -8,20 +8,21 @@
         Después de 10 años, 8.124 paseos, 1.280 comidas, 500 películas, 50
         conciertos, infinitas celebraciones, después de 9 años viviendo juntos,
         después de tantos y tantos buenos momentos compartidos y, sobre todo,
-        después de tanta expectativa creada, el gran día llega... ¡Nos casamos!
+        después de tanta expectativa creada, el gran día llega...
+        <b>¡Nos casamos!</b>
       </p>
       <p>
         Os invitamos a un fin de semana diferente en Alcalá de Henares,
-        Patrimonio de la Humanidad, para celebrar nuestro amor y vuestro cariño.
-        Un fin de semana para comer y beber, reir y llorar, bailar y descansar,
-        para aprender, conocer y no parar... en definitiva, un fin de semana
-        para disfrutar.
+        Patrimonio de la Humanidad, para
+        <b>celebrar nuestro amor y vuestro cariño</b>. Un fin de semana para
+        comer y beber, reir y llorar, bailar y descansar, para aprender, conocer
+        y no parar... en definitiva, un fin de semana para disfrutar.
       </p>
       <p>
-        Queremos que aprovechéis este fin de semana para conocer más a nuestras
-        familias, para que redescubráis a vuestras parejas o amigos y para que
-        guardéis un día especial en vuestros recuerdos. Estad atentos a todo lo
-        que tenemos planeado para vosotros y vosotras.
+        Queremos que <b>aprovechéis</b> este fin de semana para conocer más a
+        nuestras familias, para que redescubráis a vuestras parejas o amigos y
+        para que guardéis un día especial en vuestros recuerdos. Estad atentos a
+        todo lo que tenemos planeado para vosotros y vosotras.
       </p>
 
       <my-container-center>

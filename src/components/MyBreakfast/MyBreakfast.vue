@@ -17,17 +17,17 @@
       <img src="@/assets/img/breakfast.jpg" alt="" />
       <p>
         Después de una noche de copas y bailoteos, siempre viene bien un buen
-        desayuno. Vuestra reserva en el Parador contará con un desayuno de tipo
-        buffet.
+        desayuno. Vuestra reserva en el Parador contará con
+        <b>un desayuno de tipo buffet</b>.
       </p>
       <p>
-        Este es un momento para vosotros y vosotras, desayunad con quien os
-        apetezca: vuestra pareja, vuestros amigos o vuestra familia. Estad a
+        Este es un <b>momento para vosotros y vosotras</b>, desayunad con quien
+        os apetezca: vuestra pareja, vuestros amigos o vuestra familia. Estad a
         vuestra bola. Desayunad a la hora que queráis y lo que queráis.
       </p>
       <p>
-        Dejaremos la habitación sobre las 12:00 para poder sacar el coche y
-        realizar con tiempo suficiente la siguiente actividad. Así que
+        Dejaremos la habitación <b>sobre las 12:00</b> para poder sacar el coche
+        y realizar con tiempo suficiente la siguiente actividad. Así que
         organizaros como queráis.
       </p>
       <my-container-center>
