@@ -6,7 +6,7 @@
 
       <my-container-center>
         <my-tag>
-          <font-awesome-icon icon="fa-solid fa-clock" /> 14:30 - 16:00
+          <font-awesome-icon icon="fa-solid fa-clock" /> 14:45 - 16:00
         </my-tag>
       </my-container-center>
 

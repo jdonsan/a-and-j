@@ -18,7 +18,8 @@
       <p>
         Nos acercaremos un momento a la <b>Plaza de San Diego</b> donde se
         encuentra la bonita fachada de la Universidad de Alcalá para hacernos
-        algunas fotos tanto en pareja como con vosotros y vosotras.
+        algunas fotos allí y en los alrededores tanto en pareja como con
+        vosotros y vosotras.
       </p>
 
       <my-container-center>
@@ -35,9 +36,9 @@
       <img src="@/assets/img/beer.jpg" alt="Anexo Café-Bistró" />
 
       <p>
-        Para calmar un poco las emociones, nos tomaremos unas
-        <b>cervezas</b> cerca de la plaza para hacer tiempo antes de la cena e
-        ir haciendo hambre.
+        Para calmar un poco las emociones, nos
+        <b>tomaremos unas cervezas</b> cerca de la plaza para ir haciendo hambre
+        antes de la cena.
       </p>
 
       <my-container-center>
