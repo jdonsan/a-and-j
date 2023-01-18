@@ -94,7 +94,7 @@ export default {
     }
 
     li {
-      padding: 0.4rem 0 0.4rem;
+      padding: 0.6rem 0;
 
       a {
         color: $color-4;
