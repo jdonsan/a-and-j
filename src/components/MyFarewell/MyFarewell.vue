@@ -19,7 +19,7 @@
         >
       </p>
       <p>
-        Esperamos que disfruteis estos dos días tanto como hemos disfrutado
+        Esperamos que disfrutéis estos dos días tanto como hemos disfrutado
         nosotros preparándo todo.
       </p>
       <p>A más ver, mis valientes Hobbits! <b>Os esperamos!</b></p>
